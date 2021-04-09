@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Josefin+Sans&display=swap');
+/*font-family: 'Alata', sans-serif;*/
+
+a{
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+}
+
+
+
+
+.navbarTop{
+    position: relative;
+    background-image: url("images/mobile/image-hero.jpg");
+
+    background-size: cover;
+    
+    height: 700px;
+}
+
+
+
+
+/*.image_hero{
+    position: relative;
+    bottom: 100px;
+    min-width: 300x;
+    z-index: -1;
+} */
+
+.navbar{
+    padding: 150px 150px;
+    margin-left: 200px;
+    margin-right: 200px;
+    bottom: 750px;
+}
+.topHeading{
+    border: 2px solid black;
+    position: absolute;
+    top: 400px;
+    left: 100px; 
+    
+}
+
+.immersive{
+    border: 2px solid white;
+    position: absolute;
+    top: 310px;
+    left: 200px;
+
+    font-family: 'Alata', sans-serif;
+    color: white;
+    width: 25%;/*make the width of the paraghraph shoter for more lines*/
+    font-size: 80px;
+    font-weight: 500;
+}
